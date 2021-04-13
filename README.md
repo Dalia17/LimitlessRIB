@@ -13,11 +13,11 @@ une mini CRUD application pour la gestion des RIB
 
 
 ### lancement 
-lancer l'API avec la commande : 
-  dotnet build 
-  dotnet run 
+lancer l'API avec la commande :   
+  dotnet build   
+  dotnet run   
    
- Lancer l'application front avec la commande 
-    ng serve --open
+ Lancer l'application front avec la commande   
+    ng serve --open  
 
 
