@@ -1,0 +1,142 @@
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\RéInscripption\Nouveau dossier\Angular10dotNETCoreAPI-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\angular.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\e2e\tsconfig.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\package-lock.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\package.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tsconfig.app.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tsconfig.base.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tsconfig.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tsconfig.spec.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tslint.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\Projets\Web\Rib-App\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\angular.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\e2e\tsconfig.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\package-lock.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\package.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tsconfig.app.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tsconfig.base.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tsconfig.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tsconfig.spec.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\FrontEndApp\tslint.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\Projets\Web\Aon\Rib-App\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
